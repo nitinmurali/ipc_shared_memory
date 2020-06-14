@@ -1,7 +1,7 @@
 # ipc_shared_memory
 Steps to proceed:
 # server-program
-gcc -o s.out server.c
+gcc -o s.out server.c </br>
 ./s.out
 Server attaches shared memory segment.
 Start client in new window(terminal)
